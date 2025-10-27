@@ -1,37 +1,29 @@
-# 💻 **Lucas Lima**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5731B0&height=120&section=header"/>
 
-<img align="right" alt="Avatar-Animado" height="100" style="border-radius:50px;" src="https://cdn.pixabay.com/animation/2025/10/13/13/04/13-04-39-485_512.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5731B0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Ferreira+de+Lima;Sou+estudante+de+Desenvolvimento+de+Sistemas;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-**`Desenvolvedor em Formação`**
-<p>
-  Estudante do curso Técnico em Desenvolvimento de Sistemas na Faculdade Cesurg, buscando aplicar meus conhecimentos em projetos práticos e desenvolvimento de software.
-</p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasLima09&show_icons=true&count_private=true&hide_border=true&title_color=5731B0&icon_color=5731B0&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima09&layout=compact&hide_border=true&title_color=5731B0&text_color=5731B0&bg_color=0d1117" />
+</div>
 
 <br>
 
-<div align="center">
-  <img height="200" style="padding-right: 10px;"  src="https://github-readme-stats.vercel.app/api?username=LucasLima09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" style="padding-right: 10px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLima09&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-ferreira-de-lima-042a2b355/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.instagram.com/xlukazz.__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</p> 
 
-<h3>🛠️ Tecnologias que estou aprendendo:</h3>
+### Estudando Agora:
+![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
+![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=336791)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### Ferramentas:
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<br><br>
+### Outros:
+![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 
-<h3>📫 Conecte-se comigo:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-ferreira-de-lima-042a2b355/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:lucasflima09@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/xlukazz.__/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5731B0&height=120&section=footer"/>
