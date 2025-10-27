@@ -16,7 +16,9 @@
 
 ### Estudando Agora:
 ![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=orange)
+![Spring](https://img.shields.io/badge/spring-000000.svg?style=for-the-badge&logo=spring&logoColor=%236DB33F)
 ![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=336791)
+
 
 ### Ferramentas:
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
