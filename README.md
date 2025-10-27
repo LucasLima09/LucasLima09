@@ -2,7 +2,7 @@
 
 <img align="right" alt="Avatar-Animado" height="100" style="border-radius:50px;" src="https://cdn.pixabay.com/animation/2025/10/13/13/04/13-04-39-485_512.gif">
 
-**`Desenvolvedor Júnior`**
+**`Desenvolvedor em Formação`**
 <p>
   Estudante do curso Técnico em Desenvolvimento de Sistemas na Faculdade Cesurg, buscando aplicar meus conhecimentos em projetos práticos e desenvolvimento de software.
 </p>
