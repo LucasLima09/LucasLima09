@@ -20,7 +20,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS](https://img.shields.io/badge/css-000000.svg?style=for-the-badge&logo=css&logoColor=%23663399)
-
+![Flutter](https://img.shields.io/badge/Flutter-000000.svg?style=for-the-badge&logo=Flutter&logoColor=%2302569B)
+![Dart](https://img.shields.io/badge/dart-000000.svg?style=for-the-badge&logo=dart&logoColor=%230175C2)
 
 ### Ferramentas:
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
