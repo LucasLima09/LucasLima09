@@ -26,6 +26,6 @@ Atualmente atuo como **Desenvolvedor Mobile**, criando aplicativos nativos para 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
 
 ### Ferramentas & Outros
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5731B0&height=120&section=footer"/>
